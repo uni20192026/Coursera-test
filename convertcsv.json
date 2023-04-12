@@ -1,0 +1,443 @@
+[
+ {
+   "No.": 1,
+   "Nationality": "South Africa",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 1,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 2,
+   "Nationality": "Ghana",
+   "Bachelor": 1,
+   "Mastor": 0,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 2,
+   "Exchange": 0
+ },
+ {
+   "No.": 3,
+   "Nationality": "Greece",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 1,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 4,
+   "Nationality": "Nigeria",
+   "Bachelor": 1,
+   "Mastor": 0,
+   "Doctoral": 2,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 5,
+   "Nationality": "Nepal",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 1,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 6,
+   "Nationality": "New Zealand",
+   "Bachelor": 1,
+   "Mastor": 0,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 7,
+   "Nationality": "Dominica",
+   "Bachelor": 1,
+   "Mastor": 0,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 8,
+   "Nationality": "Russia",
+   "Bachelor": 1,
+   "Mastor": 1,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 9,
+   "Nationality": "Lithuanian",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 1,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 10,
+   "Nationality": "Malaysia",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 1,
+   "Exchange": 0
+ },
+ {
+   "No.": 11,
+   "Nationality": "Mexico",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 1,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 12,
+   "Nationality": "Mongolia",
+   "Bachelor": 4,
+   "Mastor": 1,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 2,
+   "Exchange": 0
+ },
+ {
+   "No.": 13,
+   "Nationality": "United States",
+   "Bachelor": 0,
+   "Mastor": 2,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 1,
+   "Exchange": 0
+ },
+ {
+   "No.": 14,
+   "Nationality": "Myanmar",
+   "Bachelor": 0,
+   "Mastor": 3,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 1,
+   "Exchange": 0
+ },
+ {
+   "No.": 15,
+   "Nationality": "Bangladesh",
+   "Bachelor": 2,
+   "Mastor": 0,
+   "Doctoral": 3,
+   "Master-Doctoral Combined": 1,
+   "Exchange": 0
+ },
+ {
+   "No.": 16,
+   "Nationality": "Venezuela",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 1,
+   "Master-Doctoral Combined": 2,
+   "Exchange": 0
+ },
+ {
+   "No.": 17,
+   "Nationality": "Vietnam",
+   "Bachelor": 5,
+   "Mastor": 6,
+   "Doctoral": 10,
+   "Master-Doctoral Combined": 9,
+   "Exchange": 0
+ },
+ {
+   "No.": 18,
+   "Nationality": "Belarus",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 1,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 19,
+   "Nationality": "Brazil",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 1,
+   "Exchange": 0
+ },
+ {
+   "No.": 20,
+   "Nationality": "Somalia",
+   "Bachelor": 0,
+   "Mastor": 1,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 1,
+   "Exchange": 0
+ },
+ {
+   "No.": 21,
+   "Nationality": "Sudan",
+   "Bachelor": 1,
+   "Mastor": 0,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 22,
+   "Nationality": "Sri Lanka",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 1,
+   "Exchange": 0
+ },
+ {
+   "No.": 23,
+   "Nationality": "Slovakia",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 1,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 24,
+   "Nationality": "Azerbaijan",
+   "Bachelor": 4,
+   "Mastor": 0,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 25,
+   "Nationality": "Ethiopia",
+   "Bachelor": 2,
+   "Mastor": 1,
+   "Doctoral": 1,
+   "Master-Doctoral Combined": 1,
+   "Exchange": 0
+ },
+ {
+   "No.": 26,
+   "Nationality": "United Kingdom",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 1,
+   "Exchange": 0
+ },
+ {
+   "No.": 27,
+   "Nationality": "Uzbekistan",
+   "Bachelor": 7,
+   "Mastor": 0,
+   "Doctoral": 2,
+   "Master-Doctoral Combined": 1,
+   "Exchange": 0
+ },
+ {
+   "No.": 28,
+   "Nationality": "Iran",
+   "Bachelor": 0,
+   "Mastor": 2,
+   "Doctoral": 5,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 29,
+   "Nationality": "India",
+   "Bachelor": 1,
+   "Mastor": 4,
+   "Doctoral": 26,
+   "Master-Doctoral Combined": 12,
+   "Exchange": 0
+ },
+ {
+   "No.": 30,
+   "Nationality": "Indonesia",
+   "Bachelor": 0,
+   "Mastor": 3,
+   "Doctoral": 8,
+   "Master-Doctoral Combined": 11,
+   "Exchange": 0
+ },
+ {
+   "No.": 31,
+   "Nationality": "China",
+   "Bachelor": 0,
+   "Mastor": 2,
+   "Doctoral": 17,
+   "Master-Doctoral Combined": 5,
+   "Exchange": 0
+ },
+ {
+   "No.": 32,
+   "Nationality": "Chile",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 1,
+   "Exchange": 0
+ },
+ {
+   "No.": 33,
+   "Nationality": "Kazakhstan",
+   "Bachelor": 42,
+   "Mastor": 7,
+   "Doctoral": 5,
+   "Master-Doctoral Combined": 9,
+   "Exchange": 6
+ },
+ {
+   "No.": 34,
+   "Nationality": "Cambodia",
+   "Bachelor": 0,
+   "Mastor": 1,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 35,
+   "Nationality": "Canada",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 1,
+   "Exchange": 0
+ },
+ {
+   "No.": 36,
+   "Nationality": "Kyrgyzstan",
+   "Bachelor": 24,
+   "Mastor": 1,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 1,
+   "Exchange": 0
+ },
+ {
+   "No.": 37,
+   "Nationality": "Tajikistan",
+   "Bachelor": 11,
+   "Mastor": 1,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 1,
+   "Exchange": 0
+ },
+ {
+   "No.": 38,
+   "Nationality": "Tanzania",
+   "Bachelor": 0,
+   "Mastor": 1,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 39,
+   "Nationality": "Thailand",
+   "Bachelor": 0,
+   "Mastor": 1,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 40,
+   "Nationality": "Turkey",
+   "Bachelor": 4,
+   "Mastor": 0,
+   "Doctoral": 4,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 41,
+   "Nationality": "Turkmenistan",
+   "Bachelor": 8,
+   "Mastor": 0,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 42,
+   "Nationality": "Tunisia",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 1,
+   "Exchange": 0
+ },
+ {
+   "No.": 43,
+   "Nationality": "Pakistan",
+   "Bachelor": 0,
+   "Mastor": 3,
+   "Doctoral": 4,
+   "Master-Doctoral Combined": 3,
+   "Exchange": 0
+ },
+ {
+   "No.": 44,
+   "Nationality": "Poland",
+   "Bachelor": 0,
+   "Mastor": 1,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 45,
+   "Nationality": "France",
+   "Bachelor": 0,
+   "Mastor": 1,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 10
+ },
+ {
+   "No.": 46,
+   "Nationality": "Philippines",
+   "Bachelor": 1,
+   "Mastor": 0,
+   "Doctoral": 2,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 0
+ },
+ {
+   "No.": 47,
+   "Nationality": "Japan",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 1
+ },
+ {
+   "No.": 48,
+   "Nationality": "Germany",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 1
+ },
+ {
+   "No.": 49,
+   "Nationality": "Netherlands",
+   "Bachelor": 0,
+   "Mastor": 0,
+   "Doctoral": 0,
+   "Master-Doctoral Combined": 0,
+   "Exchange": 1
+ }
+]
